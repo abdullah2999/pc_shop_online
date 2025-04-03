@@ -1,0 +1,24 @@
+.side_menu {
+    background-color: teal;
+    color: white;
+    height: 1000px;
+    width: 150px;
+    overflow: auto;
+    display: none;
+}
+
+.custom_button {
+    border-radius: 1000px;
+    margin: 100;
+}
+
+button:hover {
+    background-color: yellow;
+}
+
+.user_info {
+    transform: translate(100px, 10px);
+}
+.user_info2{
+    transform: translate(250px, -150px);
+}
